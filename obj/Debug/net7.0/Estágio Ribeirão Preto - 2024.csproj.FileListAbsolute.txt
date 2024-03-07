@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Orientação a Objeto C#\Estágio Ribeirão Preto - 2024\bin\Debug\net7.0\Estágio Ribeirão Preto - 2024.exe
+C:\Users\User\Documents\Orientação a Objeto C#\Estágio Ribeirão Preto - 2024\bin\Debug\net7.0\Estágio Ribeirão Preto - 2024.deps.json
+C:\Users\User\Documents\Orientação a Objeto C#\Estágio Ribeirão Preto - 2024\bin\Debug\net7.0\Estágio Ribeirão Preto - 2024.runtimeconfig.json
+C:\Users\User\Documents\Orientação a Objeto C#\Estágio Ribeirão Preto - 2024\bin\Debug\net7.0\Estágio Ribeirão Preto - 2024.dll
+C:\Users\User\Documents\Orientação a Objeto C#\Estágio Ribeirão Preto - 2024\bin\Debug\net7.0\Estágio Ribeirão Preto - 2024.pdb
+C:\Users\User\Documents\Orientação a Objeto C#\Estágio Ribeirão Preto - 2024\obj\Debug\net7.0\Estágio Ribeirão Preto - 2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Orientação a Objeto C#\Estágio Ribeirão Preto - 2024\obj\Debug\net7.0\Estágio Ribeirão Preto - 2024.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Orientação a Objeto C#\Estágio Ribeirão Preto - 2024\obj\Debug\net7.0\Estágio Ribeirão Preto - 2024.AssemblyInfo.cs
+C:\Users\User\Documents\Orientação a Objeto C#\Estágio Ribeirão Preto - 2024\obj\Debug\net7.0\Estágio Ribeirão Preto - 2024.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Orientação a Objeto C#\Estágio Ribeirão Preto - 2024\obj\Debug\net7.0\Estágio Ribeirão Preto - 2024.dll
+C:\Users\User\Documents\Orientação a Objeto C#\Estágio Ribeirão Preto - 2024\obj\Debug\net7.0\refint\Estágio Ribeirão Preto - 2024.dll
+C:\Users\User\Documents\Orientação a Objeto C#\Estágio Ribeirão Preto - 2024\obj\Debug\net7.0\Estágio Ribeirão Preto - 2024.pdb
+C:\Users\User\Documents\Orientação a Objeto C#\Estágio Ribeirão Preto - 2024\obj\Debug\net7.0\Estágio Ribeirão Preto - 2024.genruntimeconfig.cache
+C:\Users\User\Documents\Orientação a Objeto C#\Estágio Ribeirão Preto - 2024\obj\Debug\net7.0\ref\Estágio Ribeirão Preto - 2024.dll
